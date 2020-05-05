@@ -1,5 +1,6 @@
 package com.cc.leetcode;
 
-public class Day01 {
+// Check if path is valid sequence from root to leaves in binary tree
+public class Day30 {
 
 }

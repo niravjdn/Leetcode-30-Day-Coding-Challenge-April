@@ -1,5 +1,6 @@
 package com.cc.leetcode;
 
-public class Day01 {
+// Leftmost Column with at least one one
+public class Day21 {
 
 }

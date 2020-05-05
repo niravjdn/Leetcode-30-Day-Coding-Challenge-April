@@ -1,5 +1,6 @@
 package com.cc.leetcode;
 
-public class Day01 {
+// First Unique Number
+public class Day28 {
 
 }
