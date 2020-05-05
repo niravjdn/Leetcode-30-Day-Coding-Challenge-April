@@ -2,6 +2,7 @@ package com.cc.leetcode;
 
 import java.util.Stack;
 
+
 // Min Stack
 class MinStack {
   private Stack<Integer> stack = new Stack<>();
